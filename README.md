@@ -79,14 +79,6 @@ pytest -q
 
 ---
 
-## 🖼 Visuals
-
-<p align="center">
-  <img src="banner.png" width="80%"><br/>
-  <img src="pipeline_diagram.png" width="70%">
-</p>
-
----
 
 ## 📄 License
 MIT

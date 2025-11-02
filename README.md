@@ -82,8 +82,8 @@ pytest -q
 ## 🖼 Visuals
 
 <p align="center">
-  <img src="assets/banner.png" width="80%"><br/>
-  <img src="assets/pipeline_diagram.png" width="70%">
+  <img src="banner.png" width="80%"><br/>
+  <img src="pipeline_diagram.png" width="70%">
 </p>
 
 ---
